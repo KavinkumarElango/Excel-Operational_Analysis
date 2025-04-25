@@ -2,7 +2,7 @@
 
 📂 Project Overview:
 
-This project focuses on analyzing data for Elin Electronics, a leading logistics and supply chain company. The dataset encompasses various shipment aspects, including payment statuses, delivery times, employee efficiency, and shipment costs. The goal is to gain actionable insights to streamline operations and improve decision-making processes. An interactive Excel dashboard was developed to provide a user-friendly visualization of these insights, enabling better monitoring and optimization of shipment-related operations.
+This project focuses on analyzing data for ElectroniTech manufacturing Co., a leading logistics and supply chain company. The dataset encompasses various shipment aspects, including payment statuses, delivery times, employee efficiency, and shipment costs. The goal is to gain actionable insights to streamline operations and improve decision-making processes. An interactive Excel dashboard was developed to provide a user-friendly visualization of these insights, enabling better monitoring and optimization of shipment-related operations.
 ________________________________________
 🔑 Key Insights:
 
